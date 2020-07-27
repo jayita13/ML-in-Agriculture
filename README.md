@@ -1,5 +1,5 @@
 # ML-in-Agriculture
-ANALYTICS VIDHYA JANAHACK 
+ANALYTICS VIDHYA JANATAHACK 
 The Toxic Pesticides
 Though, many of us don't appreciate much, but a farmer's job is real test of endurance and determination. Once the seeds are sown, he works days and nights to make sure that he cultivates a good harvest at the end of season. A good harvest is ensured by several factors such as availability of water, soil fertility, protecting crops from rodents, timely use of pesticides & other useful chemicals and nature. While a lot of these factors are difficult to control for, the amount and frequency of pesticides is something the farmer can control.
 
