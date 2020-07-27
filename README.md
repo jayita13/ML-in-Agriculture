@@ -45,3 +45,4 @@ ID: Unique ID
 
 Crop_Damage: Predicted Crop damage category for the test set 
 
+**my solution got me a score of 0.847542289037427 and rank of 122** 
